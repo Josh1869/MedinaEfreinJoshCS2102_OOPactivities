@@ -4,10 +4,10 @@ public class SongDetails {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Collecting inputs from the user
+        
         System.out.print("Enter the year: ");
         int year = scanner.nextInt();
-        scanner.nextLine();  // Consume newline
+        scanner.nextLine(); 
 
         System.out.print("Enter the genre: ");
         String genre = scanner.nextLine();
@@ -21,7 +21,7 @@ public class SongDetails {
         System.out.print("Enter the artist: ");
         String artist = scanner.nextLine();
 
-        // Printing the song details
+        
         System.out.println("------------------------------------------");
         System.out.println("SONG DETAILS");
         System.out.println("------------------------------------------");
