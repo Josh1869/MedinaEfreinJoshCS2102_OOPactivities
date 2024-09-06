@@ -22,9 +22,9 @@ public class SongDetails {
         String artist = scanner.nextLine();
 
         // Printing the song details
-        System.out.println("\n--------------------");
+        System.out.println("------------------------------------------");
         System.out.println("SONG DETAILS");
-        System.out.println("--------------------");
+        System.out.println("------------------------------------------");
         System.out.println("Year Released: " + year);
         System.out.println("Genre: " + genre);
         System.out.println("Album: " + album);
