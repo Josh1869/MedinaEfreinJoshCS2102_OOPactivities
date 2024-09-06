@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SongDetails {
+public class GettingInput {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
