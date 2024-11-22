@@ -1,4 +1,3 @@
-// Derived class for Painter
 public class Painter extends Artist {
     public enum Medium {
         OIL, WATERCOLOR, ACRYLIC, PENCIL, CHARCOAL
